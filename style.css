@@ -1,0 +1,54 @@
+*{
+    background-color: #FAF7F0;
+}
+.container{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4A4947;
+    box-shadow: #D8D2C2;
+}
+#love_letter{
+    color:#B17457 ;
+    font-size: 20px;
+}
+#name{
+    color:#B17457 ;
+    font-size: 18px;
+}
+#starting_bid{
+    color:#B17457;
+    font-size: 18px;
+}
+#education{
+    color: #B17457;
+    font-size: 18px;
+    
+}
+#education_degree{
+    color: #B17457;
+    font-size: 18px;
+}
+#net-worth{
+    color: #B17457;
+    font-size: 18px;
+}
+#caste{
+    color: #B17457;
+    font-size: 18px;
+}
+#Education{
+    color: #B17457;
+    font-size: 18px;
+}
+#calculate_final{ 
+     display: block;
+        width: 100%;
+        padding: 10px;
+            background-color:#4A4947;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 20px;
+   }
